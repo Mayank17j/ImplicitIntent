@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Implicit Intent</string>
+    <string name="implecit_intent">Implecit Intent</string>
+    <string name="web">web</string>
+    <string name="call">Call</string>
+    <string name="map">Map</string>
+    <string name="cemra">Cemra</string>
+    <string name="screen_off">Screen off</string>
+</resources>
